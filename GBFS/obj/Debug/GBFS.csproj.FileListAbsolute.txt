@@ -1,0 +1,27 @@
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GBFS\GBFS\bin\Debug\GBFS.exe.config
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GBFS\GBFS\bin\Debug\GBFS.exe
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GBFS\GBFS\bin\Debug\GBFS.pdb
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GBFS\GBFS\obj\Debug\GBFS.csprojResolveAssemblyReference.cache
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GBFS\GBFS\obj\Debug\GBFS.exe
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\GBFS\GBFS\obj\Debug\GBFS.pdb
+C:\Users\Didem\Desktop\yapay zeka zafer\GBFS\GBFS\bin\Debug\GBFS.exe.config
+C:\Users\Didem\Desktop\yapay zeka zafer\GBFS\GBFS\obj\Debug\GBFS.exe
+C:\Users\Didem\Desktop\yapay zeka zafer\GBFS\GBFS\obj\Debug\GBFS.pdb
+C:\Users\Didem\Desktop\yapay zeka zafer\GBFS\GBFS\bin\Debug\GBFS.exe
+C:\Users\Didem\Desktop\yapay zeka zafer\GBFS\GBFS\bin\Debug\GBFS.pdb
+C:\Users\Didem\Desktop\yapay zeka zafer\GBFS\GBFS\obj\Debug\GBFS.csprojResolveAssemblyReference.cache
+C:\Users\Didem\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\bin\Debug\GBFS.exe.config
+C:\Users\Didem\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\obj\Debug\GBFS.exe
+C:\Users\Didem\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\obj\Debug\GBFS.pdb
+C:\Users\-ZaferAYAN-\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\bin\Debug\GBFS.exe.config
+C:\Users\-ZaferAYAN-\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\obj\Debug\GBFS.exe
+C:\Users\-ZaferAYAN-\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\obj\Debug\GBFS.pdb
+C:\Users\-ZaferAYAN-\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\bin\Debug\GBFS.exe
+C:\Users\-ZaferAYAN-\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\bin\Debug\GBFS.pdb
+C:\Users\-ZaferAYAN-\Desktop\Didem-Zafer YapayZeka\GBFS\GBFS\obj\Debug\GBFS.csprojResolveAssemblyReference.cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\GBFS-For-Cities\GBFS\bin\Debug\GBFS.exe.config
+C:\Users\-ZaferAYAN-\Documents\GitHub\GBFS-For-Cities\GBFS\obj\Debug\GBFS.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\GBFS-For-Cities\GBFS\obj\Debug\GBFS.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\GBFS-For-Cities\GBFS\bin\Debug\GBFS.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\GBFS-For-Cities\GBFS\bin\Debug\GBFS.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\GBFS-For-Cities\GBFS\obj\Debug\GBFS.csprojResolveAssemblyReference.cache
